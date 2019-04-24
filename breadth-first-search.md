@@ -1,5 +1,3 @@
-class: center middle
-
 ## Tree Traversal
 
 ---
@@ -63,8 +61,6 @@ d.children.push(i, j);
 | `depthFirstPostOrder` | `K L E B F G M H C I J D A` | A node is not traversed until all its children are reached |
 
 ---
-
-class: center middle
 
 ## Interviewer Guide
 
